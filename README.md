@@ -13,13 +13,13 @@
 
 JavaScript:
 
-  '''javascript
+  '''Javascript
 <script src="https://localhost/neuro.sdk.min.js"></script>
   '''
 
 Java (Maven):
 
-  '''java
+  '''Java
 <dependency>
 <groupId>neuro</groupId>
 <artifactId>sdk</artifactId>
